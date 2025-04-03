@@ -1,0 +1,1 @@
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_msgs/rosidl_typesupport_introspection_cpp/interbotix_xs_msgs/srv/detail/robot_info__rosidl_typesupport_introspection_cpp.hpp

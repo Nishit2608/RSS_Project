@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating my_simulation.egg-info
+writing my_simulation.egg-info/PKG-INFO
+writing dependency_links to my_simulation.egg-info/dependency_links.txt
+writing entry points to my_simulation.egg-info/entry_points.txt
+writing requirements to my_simulation.egg-info/requires.txt
+writing top-level names to my_simulation.egg-info/top_level.txt
+writing manifest file 'my_simulation.egg-info/SOURCES.txt'
+reading manifest file 'my_simulation.egg-info/SOURCES.txt'
+writing manifest file 'my_simulation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nishit/vision_based_sorting_ws/install/my_simulation/lib/python3.10/site-packages/my-simulation.egg-link (link to .)
+
+Installed /home/nishit/vision_based_sorting_ws/build/my_simulation
+running symlink_data
+creating /home/nishit/vision_based_sorting_ws/install/my_simulation/share/ament_index
+creating /home/nishit/vision_based_sorting_ws/install/my_simulation/share/ament_index/resource_index
+creating /home/nishit/vision_based_sorting_ws/install/my_simulation/share/ament_index/resource_index/packages
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/resource/my_simulation -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/ament_index/resource_index/packages
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/package.xml -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation

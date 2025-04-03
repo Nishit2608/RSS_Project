@@ -1,0 +1,10 @@
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/uninstall.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/interbotix_xsarm_joy_uninstall.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/xsarm_joy.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/test.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/edit_cache.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/rebuild_cache.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/list_install_components.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/install.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/install/local.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_joy/CMakeFiles/install/strip.dir

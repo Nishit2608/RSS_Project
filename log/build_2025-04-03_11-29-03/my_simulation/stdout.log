@@ -1,0 +1,35 @@
+running develop
+running egg_info
+writing my_simulation.egg-info/PKG-INFO
+writing dependency_links to my_simulation.egg-info/dependency_links.txt
+writing entry points to my_simulation.egg-info/entry_points.txt
+writing requirements to my_simulation.egg-info/requires.txt
+writing top-level names to my_simulation.egg-info/top_level.txt
+reading manifest file 'my_simulation.egg-info/SOURCES.txt'
+writing manifest file 'my_simulation.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nishit/vision_based_sorting_ws/install/my_simulation/lib/python3.10/site-packages/my-simulation.egg-link (link to .)
+
+Installed /home/nishit/vision_based_sorting_ws/build/my_simulation
+running symlink_data
+creating /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/aloha_vx300s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/mobile_wx250s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/px150.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/wx250.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/wx200.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/aloha_wx250s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/control.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/mobile_px100.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/gazebo_configs.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/ar_tag.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/px100.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/vx300s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/rx150.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/vx250.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/vx300.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/mobile_wx200.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/rx200.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/wx250s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+creating /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/worlds
+symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/worlds/my_world.world -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/worlds

@@ -1,0 +1,1 @@
+/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_ros_manipulators/interbotix_ros_xsarms/examples/interbotix_xsarm_moveit_interface/launch/xsarm_moveit_interface.launch.py

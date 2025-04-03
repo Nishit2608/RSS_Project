@@ -1,0 +1,1 @@
+/home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs/ament_cmake_core/interbotix_xs_msgsConfig-version.cmake

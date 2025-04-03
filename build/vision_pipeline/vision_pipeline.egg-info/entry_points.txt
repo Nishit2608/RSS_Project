@@ -1,0 +1,3 @@
+[console_scripts]
+vision_pipeline_node = vision_pipeline.vision_pipeline_node:main
+

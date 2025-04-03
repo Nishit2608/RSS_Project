@@ -1,0 +1,10 @@
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/uninstall.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/interbotix_xs_sdk_uninstall.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/xs_sdk.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/test.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/edit_cache.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/rebuild_cache.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/list_install_components.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/install.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/install/local.dir
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_sdk/CMakeFiles/install/strip.dir

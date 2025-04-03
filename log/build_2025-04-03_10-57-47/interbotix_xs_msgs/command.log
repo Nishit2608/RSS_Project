@@ -1,0 +1,4 @@
+Invoking command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs -- -j16 -l16
+Invoked command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs -- -j16 -l16
+Invoking command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs
+Invoked command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/nishit/vision_based_sorting_ws/build/interbotix_xs_msgs

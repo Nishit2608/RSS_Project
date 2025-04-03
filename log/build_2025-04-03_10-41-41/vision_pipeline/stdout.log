@@ -1,0 +1,14 @@
+running develop
+running egg_info
+writing vision_pipeline.egg-info/PKG-INFO
+writing dependency_links to vision_pipeline.egg-info/dependency_links.txt
+writing entry points to vision_pipeline.egg-info/entry_points.txt
+writing requirements to vision_pipeline.egg-info/requires.txt
+writing top-level names to vision_pipeline.egg-info/top_level.txt
+reading manifest file 'vision_pipeline.egg-info/SOURCES.txt'
+writing manifest file 'vision_pipeline.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages/vision-pipeline.egg-link (link to .)
+Installing vision_pipeline_node script to /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/vision_pipeline
+
+Installed /home/nishit/vision_based_sorting_ws/build/vision_pipeline

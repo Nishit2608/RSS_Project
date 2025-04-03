@@ -1,0 +1,37 @@
+[0.897s] Invoking command in '/home/nishit/vision_based_sorting_ws/build/my_simulation': PYTHONPATH=/home/nishit/vision_based_sorting_ws/build/my_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nishit/vision_based_sorting_ws/install/my_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nishit/vision_based_sorting_ws/build/my_simulation/build --no-deps symlink_data
+[1.060s] running develop
+[1.145s] running egg_info
+[1.145s] writing my_simulation.egg-info/PKG-INFO
+[1.146s] writing dependency_links to my_simulation.egg-info/dependency_links.txt
+[1.146s] writing entry points to my_simulation.egg-info/entry_points.txt
+[1.146s] writing requirements to my_simulation.egg-info/requires.txt
+[1.146s] writing top-level names to my_simulation.egg-info/top_level.txt
+[1.148s] reading manifest file 'my_simulation.egg-info/SOURCES.txt'
+[1.148s] writing manifest file 'my_simulation.egg-info/SOURCES.txt'
+[1.149s] running build_ext
+[1.150s] Creating /home/nishit/vision_based_sorting_ws/install/my_simulation/lib/python3.10/site-packages/my-simulation.egg-link (link to .)
+[1.150s] 
+[1.150s] Installed /home/nishit/vision_based_sorting_ws/build/my_simulation
+[1.150s] running symlink_data
+[1.150s] creating /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/aloha_vx300s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/mobile_wx250s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/px150.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/wx250.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/wx200.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/aloha_wx250s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/control.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/mobile_px100.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/gazebo_configs.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/ar_tag.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/px100.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/vx300s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/rx150.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.151s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/vx250.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.152s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/vx300.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.152s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/mobile_wx200.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.152s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/rx200.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.152s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/urdf/wx250s.urdf.xacro -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/urdf
+[1.152s] creating /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/worlds
+[1.152s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/worlds/my_world.world -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/worlds
+[1.220s] Invoked command in '/home/nishit/vision_based_sorting_ws/build/my_simulation' returned '0': PYTHONPATH=/home/nishit/vision_based_sorting_ws/build/my_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nishit/vision_based_sorting_ws/install/my_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nishit/vision_based_sorting_ws/build/my_simulation/build --no-deps symlink_data

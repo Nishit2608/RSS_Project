@@ -1,0 +1,1 @@
+/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_ros_control/ament_cmake_core/interbotix_xsarm_ros_controlConfig-version.cmake

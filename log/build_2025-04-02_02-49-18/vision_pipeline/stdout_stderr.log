@@ -1,0 +1,29 @@
+running egg_info
+creating ../build/vision_pipeline/vision_pipeline.egg-info
+writing ../build/vision_pipeline/vision_pipeline.egg-info/PKG-INFO
+writing dependency_links to ../build/vision_pipeline/vision_pipeline.egg-info/dependency_links.txt
+writing entry points to ../build/vision_pipeline/vision_pipeline.egg-info/entry_points.txt
+writing requirements to ../build/vision_pipeline/vision_pipeline.egg-info/requires.txt
+writing top-level names to ../build/vision_pipeline/vision_pipeline.egg-info/top_level.txt
+writing manifest file '../build/vision_pipeline/vision_pipeline.egg-info/SOURCES.txt'
+reading manifest file '../build/vision_pipeline/vision_pipeline.egg-info/SOURCES.txt'
+writing manifest file '../build/vision_pipeline/vision_pipeline.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build
+creating /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build/lib
+creating /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build/lib/vision_pipeline
+copying vision_pipeline/__init__.py -> /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build/lib/vision_pipeline
+copying vision_pipeline/vision_pipeline_node.py -> /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build/lib/vision_pipeline
+running install
+running install_lib
+creating /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages/vision_pipeline
+copying /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build/lib/vision_pipeline/__init__.py -> /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages/vision_pipeline
+copying /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build/lib/vision_pipeline/vision_pipeline_node.py -> /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages/vision_pipeline
+byte-compiling /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages/vision_pipeline/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages/vision_pipeline/vision_pipeline_node.py to vision_pipeline_node.cpython-310.pyc
+running install_egg_info
+Copying ../build/vision_pipeline/vision_pipeline.egg-info to /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages/vision_pipeline-0.0.0-py3.10.egg-info
+running install_scripts
+Installing vision_pipeline_node script to /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/vision_pipeline
+writing list of installed files to '/home/nishit/vision_based_sorting_ws/build/vision_pipeline/install.log'

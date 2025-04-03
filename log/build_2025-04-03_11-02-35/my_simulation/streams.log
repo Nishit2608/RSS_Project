@@ -1,0 +1,18 @@
+[0.880s] Invoking command in '/home/nishit/vision_based_sorting_ws/build/my_simulation': PYTHONPATH=/home/nishit/vision_based_sorting_ws/build/my_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nishit/vision_based_sorting_ws/install/my_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nishit/vision_based_sorting_ws/build/my_simulation/build --no-deps symlink_data
+[1.047s] running develop
+[1.130s] running egg_info
+[1.130s] writing my_simulation.egg-info/PKG-INFO
+[1.130s] writing dependency_links to my_simulation.egg-info/dependency_links.txt
+[1.131s] writing entry points to my_simulation.egg-info/entry_points.txt
+[1.131s] writing requirements to my_simulation.egg-info/requires.txt
+[1.131s] writing top-level names to my_simulation.egg-info/top_level.txt
+[1.132s] reading manifest file 'my_simulation.egg-info/SOURCES.txt'
+[1.133s] writing manifest file 'my_simulation.egg-info/SOURCES.txt'
+[1.134s] running build_ext
+[1.134s] Creating /home/nishit/vision_based_sorting_ws/install/my_simulation/lib/python3.10/site-packages/my-simulation.egg-link (link to .)
+[1.135s] 
+[1.135s] Installed /home/nishit/vision_based_sorting_ws/build/my_simulation
+[1.135s] running symlink_data
+[1.135s] creating /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/launch
+[1.135s] symbolically linking /home/nishit/vision_based_sorting_ws/build/my_simulation/launch/spawn_rx200.launch.py -> /home/nishit/vision_based_sorting_ws/install/my_simulation/share/my_simulation/launch
+[1.189s] Invoked command in '/home/nishit/vision_based_sorting_ws/build/my_simulation' returned '0': PYTHONPATH=/home/nishit/vision_based_sorting_ws/build/my_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nishit/vision_based_sorting_ws/install/my_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nishit/vision_based_sorting_ws/build/my_simulation/build --no-deps symlink_data

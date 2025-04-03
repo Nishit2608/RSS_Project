@@ -1,0 +1,10 @@
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/uninstall.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/interbotix_gravity_compensation_uninstall.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/interbotix_gravity_compensation.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/test.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/edit_cache.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/rebuild_cache.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/list_install_components.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/install.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/install/local.dir
+/home/nishit/vision_based_sorting_ws/build/interbotix_gravity_compensation/CMakeFiles/install/strip.dir

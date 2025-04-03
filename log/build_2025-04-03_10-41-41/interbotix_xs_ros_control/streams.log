@@ -1,0 +1,103 @@
+[0.015s] Invoking command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control': AMENT_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control
+[0.053s] -- The C compiler identification is GNU 11.4.0
+[0.092s] -- The CXX compiler identification is GNU 11.4.0
+[0.096s] -- Detecting C compiler ABI info
+[0.145s] -- Detecting C compiler ABI info - done
+[0.149s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.150s] -- Detecting C compile features
+[0.150s] -- Detecting C compile features - done
+[0.151s] -- Detecting CXX compiler ABI info
+[0.209s] -- Detecting CXX compiler ABI info - done
+[0.213s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.213s] -- Detecting CXX compile features
+[0.213s] -- Detecting CXX compile features - done
+[0.215s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.309s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.347s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.367s] -- Found hardware_interface: 2.49.0 (/opt/ros/humble/share/hardware_interface/cmake)
+[0.394s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.397s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.402s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.409s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.418s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.545s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.547s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.561s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.612s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.614s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.623s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.625s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.631s] -- Found TinyXML2 via Config file: TinyXML2_DIR-NOTFOUND
+[0.638s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.643s] -- Looking for pthread.h
+[0.698s] -- Looking for pthread.h - found
+[0.699s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.749s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.750s] -- Found Threads: TRUE  
+[0.776s] -- Found interbotix_xs_msgs: 0.0.0 (/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/share/interbotix_xs_msgs/cmake)
+[0.790s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.841s] -- Found ros2_control_test_assets: 2.49.0 (/opt/ros/humble/share/ros2_control_test_assets/cmake)
+[0.844s] -- Found gmock sources under '/opt/ros/humble/src/gmock_vendor': C++ tests using 'Google Mock' will be built
+[0.847s] -- Found ament_cmake_gtest: 1.3.11 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[0.848s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[0.855s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.856s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.856s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/include>;/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control/include
+[0.856s] -- Configured cppcheck exclude dirs and/or files: 
+[0.857s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[0.857s] -- Configured cpplint exclude dirs and/or files: 
+[0.857s] -- Added test 'lint_cmake' to check CMake code style
+[0.858s] -- Added test 'uncrustify' to check C / C++ code style
+[0.858s] -- Configured uncrustify additional arguments: 
+[0.858s] -- Added test 'xmllint' to check XML markup files
+[0.860s] -- Configuring done
+[0.899s] -- Generating done
+[0.904s] -- Build files have been written to: /home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control
+[0.914s] Invoked command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control' returned '0': AMENT_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake /home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_ros_toolboxes/interbotix_xs_toolbox/interbotix_xs_ros_control -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control
+[0.915s] Invoking command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control': AMENT_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control -- -j16 -l16
+[0.953s] [ 33%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/src/gmock-all.cc.o[0m
+[0.953s] [ 33%] [32mBuilding CXX object gmock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o[0m
+[0.953s] [ 44%] [32mBuilding CXX object CMakeFiles/interbotix_xs_ros_control.dir/src/xs_hardware_interface.cpp.o[0m
+[0.953s] [ 44%] [32mBuilding CXX object gmock/CMakeFiles/gmock.dir/opt/ros/humble/src/gtest_vendor/src/gtest-all.cc.o[0m
+[1.450s] [ 55%] [32m[1mLinking CXX static library libgmock_main.a[0m
+[1.478s] [ 55%] Built target gmock_main
+[2.827s] [ 66%] [32m[1mLinking CXX static library libgmock.a[0m
+[2.882s] [ 66%] Built target gmock
+[2.903s] [ 77%] [32mBuilding CXX object CMakeFiles/test_load_xs_hardware_interface.dir/test/test_load_xs_hardware_interface.cpp.o[0m
+[5.789s] [ 88%] [32m[1mLinking CXX executable test_load_xs_hardware_interface[0m
+[5.972s] [ 88%] Built target test_load_xs_hardware_interface
+[8.056s] [100%] [32m[1mLinking CXX shared library libinterbotix_xs_ros_control.so[0m
+[8.445s] [100%] Built target interbotix_xs_ros_control
+[8.456s] Invoked command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control' returned '0': AMENT_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control -- -j16 -l16
+[8.457s] Invoking command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control': AMENT_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control
+[8.462s] -- Install configuration: ""
+[8.462s] -- Execute custom install script
+[8.462s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control//interbotix_xs_ros_control.xml
+[8.470s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/include/interbotix_xs_ros_control/xs_hardware_interface.hpp
+[8.477s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/library_path.sh
+[8.484s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/library_path.dsv
+[8.491s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/ament_index/resource_index/package_run_dependencies/interbotix_xs_ros_control
+[8.499s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/ament_index/resource_index/parent_prefix_path/interbotix_xs_ros_control
+[8.508s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/ament_prefix_path.sh
+[8.515s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/ament_prefix_path.dsv
+[8.522s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/path.sh
+[8.529s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/path.dsv
+[8.537s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/local_setup.bash
+[8.544s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/local_setup.sh
+[8.551s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/local_setup.zsh
+[8.558s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/local_setup.dsv
+[8.564s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/package.dsv
+[8.572s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/ament_index/resource_index/packages/interbotix_xs_ros_control
+[8.579s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/interbotix_xs_ros_control
+[8.587s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/ament_cmake_export_include_directories-extras.cmake
+[8.594s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/ament_cmake_export_libraries-extras.cmake
+[8.601s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/ament_cmake_export_targets-extras.cmake
+[8.609s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/ament_cmake_export_dependencies-extras.cmake
+[8.616s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig.cmake
+[8.623s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig-version.cmake
+[8.631s] -- Symlinking: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/package.xml
+[8.639s] -- Installing: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/lib/libinterbotix_xs_ros_control.so
+[8.645s] -- Set runtime path of "/home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/lib/libinterbotix_xs_ros_control.so" to ""
+[8.645s] -- Installing: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/export_interbotix_xs_ros_controlExport.cmake
+[8.645s] -- Installing: /home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/export_interbotix_xs_ros_controlExport-noconfig.cmake
+[8.648s] Invoked command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control' returned '0': AMENT_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/nishit/vision_based_sorting_ws/build/interbotix_xs_ros_control

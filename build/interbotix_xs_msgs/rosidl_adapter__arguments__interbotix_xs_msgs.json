@@ -1,0 +1,19 @@
+{
+  "package_name": "interbotix_xs_msgs",
+  "non_idl_tuples": [
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:msg/ArmJoy.msg",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:msg/HexJoy.msg",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:msg/JointGroupCommand.msg",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:msg/JointSingleCommand.msg",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:msg/JointTemps.msg",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:msg/JointTrajectoryCommand.msg",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:msg/LocobotJoy.msg",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:msg/TurretJoy.msg",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:srv/MotorGains.srv",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:srv/OperatingModes.srv",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:srv/Reboot.srv",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:srv/RegisterValues.srv",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:srv/RobotInfo.srv",
+    "/home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_xs_msgs:srv/TorqueEnable.srv"
+  ]
+}

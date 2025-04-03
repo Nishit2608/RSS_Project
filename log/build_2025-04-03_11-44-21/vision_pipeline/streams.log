@@ -1,0 +1,16 @@
+[0.975s] Invoking command in '/home/nishit/vision_based_sorting_ws/build/vision_pipeline': PYTHONPATH=/home/nishit/vision_based_sorting_ws/build/vision_pipeline/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build --no-deps
+[1.136s] running develop
+[1.225s] running egg_info
+[1.225s] writing vision_pipeline.egg-info/PKG-INFO
+[1.226s] writing dependency_links to vision_pipeline.egg-info/dependency_links.txt
+[1.226s] writing entry points to vision_pipeline.egg-info/entry_points.txt
+[1.226s] writing requirements to vision_pipeline.egg-info/requires.txt
+[1.226s] writing top-level names to vision_pipeline.egg-info/top_level.txt
+[1.228s] reading manifest file 'vision_pipeline.egg-info/SOURCES.txt'
+[1.229s] writing manifest file 'vision_pipeline.egg-info/SOURCES.txt'
+[1.231s] running build_ext
+[1.231s] Creating /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages/vision-pipeline.egg-link (link to .)
+[1.231s] Installing vision_pipeline_node script to /home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/vision_pipeline
+[1.231s] 
+[1.231s] Installed /home/nishit/vision_based_sorting_ws/build/vision_pipeline
+[1.416s] Invoked command in '/home/nishit/vision_based_sorting_ws/build/vision_pipeline' returned '0': PYTHONPATH=/home/nishit/vision_based_sorting_ws/build/vision_pipeline/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nishit/vision_based_sorting_ws/install/vision_pipeline/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/nishit/vision_based_sorting_ws/build/vision_pipeline/build --no-deps

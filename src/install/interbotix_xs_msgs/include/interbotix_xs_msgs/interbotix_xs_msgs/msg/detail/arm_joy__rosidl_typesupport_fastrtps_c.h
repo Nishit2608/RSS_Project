@@ -1,0 +1,1 @@
+/home/nishit/vision_based_sorting_ws/src/build/interbotix_xs_msgs/rosidl_typesupport_fastrtps_c/interbotix_xs_msgs/msg/detail/arm_joy__rosidl_typesupport_fastrtps_c.h

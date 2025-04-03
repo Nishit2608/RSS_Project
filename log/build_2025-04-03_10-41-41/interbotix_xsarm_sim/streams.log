@@ -1,0 +1,25 @@
+[0.015s] Invoking command in '/home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_sim': AMENT_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xsarm_descriptions:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_modules:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_sdk:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_driver:/home/nishit/vision_based_sorting_ws/install/interbotix_common_sim:/home/nishit/vision_based_sorting_ws/install/interbotix_common_modules:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xsarm_descriptions:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_sdk:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_driver:/home/nishit/vision_based_sorting_ws/install/interbotix_common_sim:/opt/ros/humble LD_LIBRARY_PATH=/home/nishit/vision_based_sorting_ws/install/interbotix_xs_ros_control/lib:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/lib:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_driver/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/nishit/vision_based_sorting_ws/build/interbotix_xs_modules:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/nishit/vision_based_sorting_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/nishit/vision_based_sorting_ws/build/interbotix_common_modules:/home/nishit/vision_based_sorting_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/cmake /home/nishit/vision_based_sorting_ws/src/rx200_ros2_stack/interbotix_ros_manipulators/interbotix_ros_xsarms/interbotix_xsarm_sim -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nishit/vision_based_sorting_ws/install/interbotix_xsarm_sim
+[0.055s] -- The C compiler identification is GNU 11.4.0
+[0.093s] -- The CXX compiler identification is GNU 11.4.0
+[0.098s] -- Detecting C compiler ABI info
+[0.150s] -- Detecting C compiler ABI info - done
+[0.154s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.154s] -- Detecting C compile features
+[0.154s] -- Detecting C compile features - done
+[0.156s] -- Detecting CXX compiler ABI info
+[0.218s] -- Detecting CXX compiler ABI info - done
+[0.222s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.223s] -- Detecting CXX compile features
+[0.223s] -- Detecting CXX compile features - done
+[0.225s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.332s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.373s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.418s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.476s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.478s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.479s] -- Added test 'lint_cmake' to check CMake code style
+[0.479s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.480s] -- Added test 'xmllint' to check XML markup files
+[0.481s] -- Configuring done
+[0.483s] -- Generating done
+[0.484s] -- Build files have been written to: /home/nishit/vision_based_sorting_ws/build/interbotix_xsarm_sim
